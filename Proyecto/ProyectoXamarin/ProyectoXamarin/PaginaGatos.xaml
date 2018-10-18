@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:ProyectoXamarin"
              x:Class="ProyectoXamarin.PaginaGatos"
              x:Name="Root">
-
+    <ScrollView>
     <StackLayout>
 
         <ActivityIndicator x:Name="actInd"
@@ -37,5 +37,5 @@
        
 
     </StackLayout>
-
+    </ScrollView>
 </ContentPage>

@@ -24,7 +24,7 @@ namespace ProyectoXamarin
 
         private async void ButtonSalir_Click(object sender, EventArgs arg)
         {
-            //await CargarGato();
+           
         }
 
         private async void ButtonOk_Click(object sender, EventArgs arg)

@@ -19,5 +19,17 @@ namespace ProyectoXamarin
             lbContrato.Text = "¿Usted acepta cuidar al felino, darle cariño, medicinas, un hogar, juguetes y hacerlo feliz?";
 
         }
-	}
+
+        private async void ButtonCancel_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PopAsync();
+        }
+
+        private async void ButtonOK_Clicked(object sender, EventArgs e)
+        {
+            await DisplayAlert("Adopción", "Gracias por adoptar!!", "Ok");
+
+            await Navigation.PopToRootAsync();
+        }
+    }
 }

@@ -1257,11 +1257,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Extreme Tech\\Documents\\CursoXamarin\\Curso 2.0\\Proyecto\\ProyectoXamarin\\ProyectoXamarin.Android\\ProyectoXamarin.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Extreme Tech\\Documents\\GitHub\\XamarinProyecto\\Proyecto\\ProyectoXamarin\\ProyectoXamarin.Android\\ProyectoXamarin.Android.csproj",
       "projectName": "ProyectoXamarin.Android",
-      "projectPath": "C:\\Users\\Extreme Tech\\Documents\\CursoXamarin\\Curso 2.0\\Proyecto\\ProyectoXamarin\\ProyectoXamarin.Android\\ProyectoXamarin.Android.csproj",
+      "projectPath": "C:\\Users\\Extreme Tech\\Documents\\GitHub\\XamarinProyecto\\Proyecto\\ProyectoXamarin\\ProyectoXamarin.Android\\ProyectoXamarin.Android.csproj",
       "packagesPath": "C:\\Users\\Extreme Tech\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Extreme Tech\\Documents\\CursoXamarin\\Curso 2.0\\Proyecto\\ProyectoXamarin\\ProyectoXamarin.Android\\obj\\",
+      "outputPath": "C:\\Users\\Extreme Tech\\Documents\\GitHub\\XamarinProyecto\\Proyecto\\ProyectoXamarin\\ProyectoXamarin.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

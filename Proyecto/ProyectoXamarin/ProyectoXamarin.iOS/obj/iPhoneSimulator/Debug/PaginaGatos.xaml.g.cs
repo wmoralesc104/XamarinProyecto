@@ -8,14 +8,14 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("ProyectoXamarin.iOS.PaginaGatos.xaml", "PaginaGatos.xaml", typeof(global::ProyectoXamarin.MainPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("ProyectoXamarin.iOS.PaginaGatos.xaml", "PaginaGatos.xaml", typeof(global::ProyectoXamarin.PaginaGatos))]
 
 namespace ProyectoXamarin {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Extreme Tech\\Documents\\CursoXamarin\\Curso 2.0\\Proyecto\\ProyectoXamarin\\P" +
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Extreme Tech\\Documents\\GitHub\\XamarinProyecto\\Proyecto\\ProyectoXamarin\\P" +
         "royectoXamarin\\PaginaGatos.xaml")]
-    public partial class MainPage : global::Xamarin.Forms.ContentPage {
+    public partial class PaginaGatos : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.ContentPage Root;
@@ -40,7 +40,7 @@ namespace ProyectoXamarin {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MainPage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(PaginaGatos));
             Root = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.ContentPage>(this, "Root");
             actInd = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.ActivityIndicator>(this, "actInd");
             Titulo = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "Titulo");

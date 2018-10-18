@@ -8,7 +8,7 @@
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
 
-            <Entry x:Name="lbContrato" IsEnabled="False" 
+            <Label x:Name="lbContrato" TextColor="Red" 
                    HeightRequest="150"  
                    VerticalOptions="FillAndExpand" 
                     HorizontalOptions="CenterAndExpand"
@@ -17,7 +17,21 @@
             <Label x:Name="gatoAdoptar"
                     VerticalOptions="CenterAndExpand" 
                     HorizontalOptions="CenterAndExpand"/>
-            
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Button x:Name="ButtonCancel" Text="Cancelar"  Clicked="ButtonCancel_Clicked" Grid.Row="0" Grid.Column="0"/>
+                <Button x:Name="ButtonOK" Text="Aceptar"   Clicked="ButtonOK_Clicked" Grid.Row="0" Grid.Column="1"/>
+
+            </Grid>
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

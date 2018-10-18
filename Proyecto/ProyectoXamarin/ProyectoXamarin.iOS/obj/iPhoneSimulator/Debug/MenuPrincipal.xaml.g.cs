@@ -13,7 +13,7 @@
 namespace ProyectoXamarin {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Extreme Tech\\Documents\\CursoXamarin\\Curso 2.0\\Proyecto\\ProyectoXamarin\\P" +
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Extreme Tech\\Documents\\GitHub\\XamarinProyecto\\Proyecto\\ProyectoXamarin\\P" +
         "royectoXamarin\\MenuPrincipal.xaml")]
     public partial class MenuPrincipal : global::Xamarin.Forms.ContentPage {
         

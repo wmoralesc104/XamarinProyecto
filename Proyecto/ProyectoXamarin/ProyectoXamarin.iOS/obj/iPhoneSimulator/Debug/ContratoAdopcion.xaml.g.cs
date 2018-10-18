@@ -13,17 +13,21 @@
 namespace ProyectoXamarin {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Extreme Tech\\Documents\\CursoXamarin\\Curso 2.0\\Proyecto\\ProyectoXamarin\\P" +
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Extreme Tech\\Documents\\GitHub\\XamarinProyecto\\Proyecto\\ProyectoXamarin\\P" +
         "royectoXamarin\\ContratoAdopcion.xaml")]
     public partial class ContratoAdopcion : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Xamarin.Forms.Label idGato;
+        private global::Xamarin.Forms.Entry lbContrato;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Label gatoAdoptar;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(ContratoAdopcion));
-            idGato = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "idGato");
+            lbContrato = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Entry>(this, "lbContrato");
+            gatoAdoptar = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "gatoAdoptar");
         }
     }
 }
