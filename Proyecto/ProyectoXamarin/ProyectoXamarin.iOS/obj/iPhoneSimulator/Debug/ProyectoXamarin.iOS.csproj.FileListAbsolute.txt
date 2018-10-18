@@ -1,0 +1,10 @@
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\Proyecto\ProyectoXamarin\ProyectoXamarin.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\Proyecto\ProyectoXamarin\ProyectoXamarin.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\Proyecto\ProyectoXamarin\ProyectoXamarin.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\Proyecto\ProyectoXamarin\ProyectoXamarin.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\Proyecto\ProyectoXamarin\ProyectoXamarin.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\Proyecto\ProyectoXamarin\ProyectoXamarin.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\Proyecto\ProyectoXamarin\ProyectoXamarin.iOS\obj\iPhoneSimulator\Debug\ProyectoXamarin.iOS.csprojAssemblyReference.cache
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\Proyecto\ProyectoXamarin\ProyectoXamarin.iOS\obj\iPhoneSimulator\Debug\App.xaml.g.cs
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\Proyecto\ProyectoXamarin\ProyectoXamarin.iOS\obj\iPhoneSimulator\Debug\MainPage.xaml.g.cs
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\Proyecto\ProyectoXamarin\ProyectoXamarin.iOS\obj\iPhoneSimulator\Debug\ProyectoXamarin.iOS.csproj.CoreCompileInputs.cache

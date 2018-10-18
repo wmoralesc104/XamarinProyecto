@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ProyectoXamarin"
+             x:Class="ProyectoXamarin.PaginaGatos"
+             x:Name="Root">
+
+    <StackLayout>
+
+        <ActivityIndicator x:Name="actInd"
+                             IsRunning="{Binding IsLoading}"
+                             IsVisible="{Binding IsLoading}" Color="Red"/>
+
+        <StackLayout>
+            <Label x:Name="Titulo" Text="Por Favor, Seleccione si desea Adoptar al gato:" HorizontalOptions="Center" />
+        </StackLayout>
+        <StackLayout>
+            <Label x:Name="gatoId" Text="" HorizontalOptions="Center"/>
+
+            <Image x:Name="gatoImage"  HorizontalOptions="Center" WidthRequest="200" Aspect="Fill" />
+            
+        </StackLayout>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Button x:Name="buttonSiguiente" Text="Siguiente"   Grid.Row="0" Grid.Column="0"/>
+            <Button x:Name="buttonAdoptar" Text="Adoptar"   Grid.Row="0" Grid.Column="1"/>
+
+        </Grid>
+       
+
+    </StackLayout>
+
+</ContentPage>
